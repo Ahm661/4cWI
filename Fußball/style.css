@@ -1,0 +1,124 @@
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.Tlogo{
+    height: 150px;    
+}
+.Slogo{
+    width: 200px;
+}
+.MatchDay{
+    margin-left: 2em;
+}
+.MatchdayLogo{
+    width: 30em;
+    
+}
+
+
+.matches{
+    font-size: 30px;
+    line-height: 1.3;
+}
+
+.Search{
+    margin-left: 10px;
+    padding-top: 10px;
+    width: 400px;
+    height: 30px;
+    display: flex;
+    justify-content: center;;
+    border-style: solid;
+    border-width: medium;
+    border-color: #a9a9a9;
+    border-radius: 50px;
+}
+.TS{
+    margin-top: 60px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 380px;
+    height: 3em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-style: solid;
+    border-width: medium;
+    border-color: darkgray;
+    border-radius: 50px;
+}
+
+.tes{  
+    margin-top: 15px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 380px;
+    height: 3em;  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-style: solid;
+    border-width: medium;
+    border-color: darkgray;
+    border-radius: 50px;
+
+}
+
+.fimg{
+    height: 2em;
+    align-items: center;
+}
+
+.teld{
+    display: flex;
+    align-items: center;
+}
+
+.m{
+    display:flex;
+}
+
+.line{
+    margin-top: 15px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 380px;
+    height: 3em;  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-style: solid;
+    border-width: medium;
+    border-color: darkgray;
+    border-radius: 50px;
+    
+}
+
+.linefirst{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 20px 30px auto 50px;
+}
+.NewsLogo{
+    width: 25em;
+    height: 10.9em;
+}
+.News{
+    margin-left: 5em;
+}
+.BN{
+    font-size: 30px;
+    line-height: 1.5;
+}
