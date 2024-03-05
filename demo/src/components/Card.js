@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Card({ name, title, imageUri }) {
+export default function Card({ name, title, imageUri, gender }) {
     return (
         < div className='border grid grid-cols-2 h-40' >
             <div className=' p-4'>
